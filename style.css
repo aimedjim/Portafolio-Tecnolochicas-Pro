@@ -26,7 +26,7 @@ h1 {
 
 .seccion-oscura {
   color: white;
-  background-color: #1b1b32;
+  background-color: #3b2844;
 }
 
 .seccion-clara {
@@ -37,12 +37,12 @@ h1 {
 .seccion-titulo {
   font-size: 2rem;
   padding: 15px 0;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: "Prata", serif;
 }
 
 .seccion-descripcion {
   font-size: 1.2rem;
-  color: #584e4e;
+  color: #3b2844;
 }
 
 .seccion-texto {
@@ -82,7 +82,7 @@ h1 {
 
 .hero-principal h2 {
   font-size: 1.5rem;
-  color: #615151;
+  color: #3b2844;
 }
 
 /* Sobre mi */
@@ -115,13 +115,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #1b1b32;
+  background-color: #a27fb3;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #7ade30;
-  background-color: #0a0a23;
+  color: white;
+  background-color: #3b2844;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -232,9 +232,9 @@ h1 {
 
 .testimonio-texto {
   max-width: 70%;
-  font-size: 20px;
+  font-size: 16px;
   text-align: center;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: "Roboto", sans-serif;
 }
 
 .testimonio-info {
@@ -247,12 +247,12 @@ h1 {
 }
 
 .testimonio-footer .cliente {
-  font-size: 1.2rem;
+  font-size: 1.0rem;
 }
 
 .testimonio-info .cargo {
-  font-size: 0.9rem;
-  color: #656060;
+  font-size: 1.0rem;
+  color: #000000;
 }
 
 /* Contacto */
@@ -265,7 +265,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color: #a27fb3;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -347,7 +347,7 @@ footer {
 
 .iconos-redes-sociales a:hover {
   background-color: white;
-  border: 2px solid rgb(13, 110, 253);
+  border: 2px solid #3b2844;
 }
 
 .iconos-redes-sociales a:hover i {
@@ -356,7 +356,7 @@ footer {
 
 .derechos-de-autor {
   font-size: 15px;
-  color: #aeaeae;
+  color: #929292;
   padding: 20px;
 }
 
